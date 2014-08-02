@@ -58,9 +58,9 @@ This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Pl
 | 9 - 14              | 30 September - 11 November |
 | Final Jury          | TDB                        |
 
----
 
-## Policies
+
+## Policies, et al.
 
 ### Attendance & Due Dates
 
@@ -110,9 +110,12 @@ Any questions about citation, research, or those in regards to this policy shoul
 
 *This policy is heavily influenced by those of MIT (Cambridge, MA).  For more information see ```integrity.mit.edu```.*
 
-
 ### Code of Conduct
 
 All students (and others) are required to treat themselves, those around them, their environment with the upmost respect.  Discrimination, harassment, violance, etc. of any kind, is unacceptable and **will be handled with all seriousness**.  
 
 Any questions in regards to this policy should be referred to ```fablab@cept.ac.in```.
+
+### License  
+
+TBA
