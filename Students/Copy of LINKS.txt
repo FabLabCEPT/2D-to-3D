@@ -1,7 +1,0 @@
-Links:
-
-http://daringfireball.net/projects/markdown/
-
-https://guides.github.com/features/mastering-markdown/
-
-http://www.emoji-cheat-sheet.com/
