@@ -1,6 +1,6 @@
 # 2D to 3D
 
-![press-fit](http://fabacademy.org/archives/2014/students/skupniewicz.henry/content/PressFit_srf.png)  
+![press-fit](PressFit_srf.png)  
 
 [Press-fit construction](http://fabacademy.org/archives/2014/students/skupniewicz.henry/week02.html)
 
@@ -25,40 +25,54 @@ This class, because of its size and nature, will be very much like a workshop --
 
 As this is part of FabLab CEPT, many of topics covered will uses digital fabrication techniques, though using these tools is not a requirement for a topic to be covered.
 
+> Due to the number of students enrolled in the class and the scheduling, a proper class structure has yet to be determined.  **An initial plan will be formulated in the coming days.**  This structure may change depending on how well it works.
+>
+> An exact class schedule and the formats for assignments will be determined once the structure is chosen.
+
 ---
 
 ## Assignments and Expectations
 
+> **This section will be updated soon once a final schedule and class stucture is set.**
+>
+> ---
+>
 > For policies regarding assignments, please see the [Policies section below](#policies).
 
-There will be two types of assignments given out in this class.  **All are mandentory and due dates are strict to ensure proper credit is due.**
-
-###### Reading Assignments
-
-These will be a combination of short readings and small projects that *will require work outside of class*.  They are formulated so that you will be able to accomplish them with the help of FabLab CEPT and other local resources.
-**Due one week from assigned date.**  
-
-###### Projects
-
-These are multi-week assignments that will culminate in either a final or mid-term.  Students will have to self-pace for proper completion of the assignment.  
-**Due-date notified at time of assignment.**
 
 ## Schedule
 
 > For a more detailed, class-by-class breakdown, please see the class notes.
 
-This semester is made up of 15 classes (numbered 0-14), with one Final Jury.  Please note that two dates, which would normally have class, will be off due to Eid (29 July, 2014) and Diwali (21 October, 2014).  Below is a list of how the semester will be broken up with important dates noted.
+This semester is made up of 16 weeks (numbered 0-15) each with, on average two (2) classes, Additionally, there will be one Final Jury at the conclusion of the semester.  
+
+Please note that four (4) dates, which would normally have class, will be off due to Independence Day (15 August, 2014), Ganesh Chaturthi (29 August, 2014), Dusshera (1 November, 2014), and Gujarati New Years (24 November, 2014).  
+
+Below is a list of how the semester will be broken up, with important dates noted.
 
 > Class **will be held** during Navratri.
 
-|Class                | Dates                      |
-|---------------------|----------------------------|
-| 0 - 7               | 22 July - 16 September     |
-| Mid-term (Class 8)  | 23 September               |
-| 9 - 14              | 30 September - 11 November |
-| Final Jury          | TDB                        |
+| Week                                  | Dates              | Notes          |
+|---------------------------------------|--------------------|----------------|
+| 0 : Hello, World!  Hello, Markdown!   | 23 & 25 July       | virtual class  |
+| 1                                     | 30 July & 1 August | **No classes** |
+| 2 : Hello, World! (again)             | 6 & 8 August       |                |
+| 3 : Making Volume                     | 13 August          |                |
+| 4 : Origami                           | 20 & 22 August     |                |
+| 5 : Experiments with Folding          | 27 August          |                |
+| 6 : Beyond Stacking : Modular Systems | 3 & 5 September    |                |
+| 7 : A ~~Murder~~ Mid-Term is Announced | 10 & 12 September |                |
+| 8 : **Mid-Term**                      | 17 & 19 September  |                |
+| 9 :                                   | 24 & 26 September  |                |
+| 10 :                                  | 1 October          |                |
+| 11 :                                  | 8 & 10 October     |                |
+| 12 :                                  | 15 & 17 October    |                |
+| 13 :                                  | 29 & 31 October    |                |
+| 14 :                                  | 5 & 7 November     |                |
+| 15 :                                  | 12 & 14 November   |                |
+| **Final Jury**                        | TBA                | Location TBA   |
 
-
+---
 
 ## Policies, et al.
 
