@@ -29,8 +29,6 @@ As this is part of FabLab CEPT, many of topics covered will uses digital fabrica
 >
 > An exact class schedule and the formats for assignments will be determined once the structure is chosen.
 
----
-
 ## Assignments and Expectations
 
 > **This section will be updated soon once a final schedule and class stucture is set.**
@@ -52,19 +50,20 @@ Below is a list of how the semester will be broken up, with important dates note
 
 > Class **will be held** during Navratri.
 
-| Week                                  | Dates              | Notes          |
+| Class                                 | Dates              | Notes          |
 |---------------------------------------|--------------------|----------------|
 | 0 : Hello, World!  Hello, Markdown!   | 23 & 25 July       | virtual class  |
 | 1                                     | 30 July & 1 August | **No classes** |
-| 2 : Hello, World! (again)             | 6 & 8 August       |                |
-| 3 : Making Volume                     | 13 August          |                |
+| 2 : Hello, World! (again)             | 6 August           | combined class |
+| 2 : Making Volume                     | 8 August           | combined class |
+| 3 :                                   | 13 August          | combined class |
 | 4 : Origami                           | 20 & 22 August     |                |
-| 5 : Experiments with Folding          | 27 August          |                |
+| 5 : Experiments with Folding          | 27 August          | combined class |
 | 6 : Beyond Stacking : Modular Systems | 3 & 5 September    |                |
 | 7 : A ~~Murder~~ Mid-Term is Announced | 10 & 12 September |                |
 | 8 : **Mid-Term**                      | 17 & 19 September  |                |
 | 9 :                                   | 24 & 26 September  |                |
-| 10 :                                  | 1 October          |                |
+| 10 :                                  | 1 October          | combined class |
 | 11 :                                  | 8 & 10 October     |                |
 | 12 :                                  | 15 & 17 October    |                |
 | 13 :                                  | 29 & 31 October    |                |
