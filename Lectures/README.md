@@ -2,8 +2,11 @@
 
 #### Table of Contents
 
-[Class 0](https://github.com/FabLabCEPT/New-Media/tree/master/Lectures#class-0--hello-world-hello-markdown)  
-[Class 1](https://github.com/FabLabCEPT/New-Media/tree/master/Lectures#class-1--computational-design-in-brief)
+**Table of Contents**
+- [Class 0 : "Hello, World!  Hello, Class!  Hello, Markdown!"](#user-content-class-0--hello-world--hello-class--hello-markdown)
+- [Class 1 : Hello, Class!](#user-content-class-1)
+- [Class 2 : Hello, Class!](#user-content-class-2--hello-class)
+- [Class 3 : Making Volume](#user-content-class-3--making-volume)
 
 ---
 
@@ -25,7 +28,7 @@ Markdown (```.md``` or ```.markdown```) is a *human-readable* text format that i
 
 ---
 
-## Class 1 : Hello, Class!
+## Class 1
 
 > No Class will be held on either 30 July, 2014 or 1 August, 2014.
 
@@ -56,9 +59,9 @@ Markdown (```.md``` or ```.markdown```) is a *human-readable* text format that i
 
 ## Class 3 : Making Volume
 
-![Map Projections](http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Brockhaus_and_Efron_Encyclopedic_Dictionary_b28_639-0.jpg/1200px-Brockhaus_and_Efron_Encyclopedic_Dictionary_b28_639-0.jpg)  
+![Map Projections](http://upload.wikimedia.org/wikipedia/commons/d/da/Brockhaus_and_Efron_Encyclopedic_Dictionary_b28_639-0.jpg)  
 
-[Brockhaus and Efron Encyclopedic Dictionary b28 639-0</a>" by painter from Brockhaus and Efron Encyclopedic Dictionary - reproduction from DVD](http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Brockhaus_and_Efron_Encyclopedic_Dictionary_b28_639-0.jpg/1200px-Brockhaus_and_Efron_Encyclopedic_Dictionary_b28_639-0.jpg).  Licensed under Public Domain via [Wikimedia Commons](//commons.wikimedia.org/wiki/).
+[Brockhaus and Efron Encyclopedic Dictionary by painter from Brockhaus and Efron Encyclopedic Dictionary - reproduction from DVD](http://upload.wikimedia.org/wikipedia/commons/d/da/Brockhaus_and_Efron_Encyclopedic_Dictionary_b28_639-0.jpg).  Licensed under Public Domain via [Wikimedia Commons](//commons.wikimedia.org/wiki/).
 
 > This is a combined class on **8 Friday, 2014**.
 
