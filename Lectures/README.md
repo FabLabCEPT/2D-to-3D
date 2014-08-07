@@ -3,7 +3,7 @@
 #### Table of Contents
 
 - [Class 0 : "Hello, World!  Hello, Class!  Hello, Markdown!"](#user-content-class-0--hello-world--hello-class--hello-markdown)
-- [Class 1 : Hello, Class!](#user-content-class-1)
+- [Class 1](#user-content-class-1)
 - [Class 2 : Hello, Class!](#user-content-class-2--hello-class)
 - [Class 3 : Making Volume](#user-content-class-3--making-volume)
 
@@ -92,8 +92,8 @@ Markdown (```.md``` or ```.markdown```) is a *human-readable* text format that i
 
 Using the laser cutter and thick, white paper, make:  
 
-* One (1) synclastic form.
-* One (1) anti-clastic form.
+* One (1) form, such that all points have single curvature.
+* One (1) form, such that "all" points have double curvature.
 
 Each should be (roughly) 6"x6"x6".
 
