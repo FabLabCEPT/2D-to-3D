@@ -57,9 +57,9 @@ Below is a list of how the semester will be broken up, with important dates note
 | 2 : Hello, World! (again)             | 6 August           | combined class |
 | 2 : Making Volume                     | 8 August           | combined class |
 | 3 :                                   | 13 August          | combined class |
-| 4 : Origami                           | 20 & 22 August     |                |
-| 5 : Experiments with Folding          | 27 August          | combined class |
-| 6 : Beyond Stacking : Modular Systems | 3 & 5 September    |                |
+| 4 :                                   | 20 & 22 August     |                |
+| 5 :                                   | 27 August          | combined class |
+| 6 :                                   | 3 & 5 September    |                |
 | 7 : A ~~Murder~~ Mid-Term is Announced | 10 & 12 September |                |
 | 8 : **Mid-Term**                      | 17 & 19 September  |                |
 | 9 :                                   | 24 & 26 September  |                |

@@ -1,8 +1,6 @@
-# Assignment 1 : "Hello, Markdown!" [redux]
+# Assignment 0 : "Hello, Markdown!"
 
-> Due: 23:59 IST - 7 August, 2014
-
-Let's try this again. :smile:
+> Due: 23:59 IST - 1 August, 2014
 
 So, I want to learn about you, and you [obviously] want to learn some Markdown -- the only solution is this assignment!
 
@@ -15,7 +13,7 @@ For this assignment, you are going to make a very simple Markdown file that will
 1. Make a folder (also known as a "directory") named: ```2014_FirstnameLastname``` -- your first and last name should be capitalized (and there is no space between the two)
 2. Make a Markdown file with the same name (```firstnameLastname.md```) and fill it out using the template below.
 3. If there are any images put the images in the same file (and make sure that the is not much more than 200kb).
-4. Email file to ```HenrySkup@gmail.com``` by **24:00 IST - Sunday, 27 July, 2014.**
+4. Email file to ```HenrySkup@gmail.com```
 
 ## Format
 
