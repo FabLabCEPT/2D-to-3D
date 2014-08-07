@@ -2,7 +2,6 @@
 
 #### Table of Contents
 
-**Table of Contents**
 - [Class 0 : "Hello, World!  Hello, Class!  Hello, Markdown!"](#user-content-class-0--hello-world--hello-class--hello-markdown)
 - [Class 1 : Hello, Class!](#user-content-class-1)
 - [Class 2 : Hello, Class!](#user-content-class-2--hello-class)
