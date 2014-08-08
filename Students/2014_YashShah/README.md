@@ -20,5 +20,4 @@
 ![Ambigram of my name]
 (D:\Work\5th Year\2D to 3D\Markdown\My Files\2014_YashShah\Yash_Ambigram)
 
-![Lighting Installation inspired from a peapod - Graphic Design 2]
-(D:\Work\5th Year\2D to 3D\Markdown\My Files\2014_YashShah\Peapod)
+![Lighting Installation inspired from a peapod - Graphic Design 2](Peapod.jpg)
