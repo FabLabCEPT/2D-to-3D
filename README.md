@@ -56,7 +56,7 @@ Below is a list of how the semester will be broken up, with important dates note
 | 1                                     | 30 July & 1 August | **No classes** |
 | 2 : Hello, World! (again)             | 6 August           | combined class |
 | 2 : Making Volume                     | 8 August           | combined class |
-| 3 :                                   | 13 August          | combined class |
+| 3 : Folding, Unfolding                | 13 August          | combined class |
 | 4 :                                   | 20 & 22 August     |                |
 | 5 :                                   | 27 August          | combined class |
 | 6 :                                   | 3 & 5 September    |                |
