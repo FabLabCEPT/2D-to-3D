@@ -25,24 +25,11 @@ This class, because of its size and nature, will be very much like a workshop --
 
 As this is part of FabLab CEPT, many of topics covered will uses digital fabrication techniques, though using these tools is not a requirement for a topic to be covered.
 
-> Due to the number of students enrolled in the class and the scheduling, a proper class structure has yet to be determined.  **An initial plan will be formulated in the coming days.**  This structure may change depending on how well it works.
->
-> An exact class schedule and the formats for assignments will be determined once the structure is chosen.
-
-## Assignments and Expectations
-
-> **This section will be updated soon once a final schedule and class stucture is set.**
->
-> ---
->
-> For policies regarding assignments, please see the [Policies section below](#policies).
-
-
 ## Schedule
 
 > For a more detailed, class-by-class breakdown, please see the class notes.
 
-This semester is made up of 16 weeks (numbered 0-15) each with, on average two (2) classes, Additionally, there will be one Final Jury at the conclusion of the semester.  
+This semester is made up of 16 weeks , with at total of 17 unique classes.  Additionally, there will be one Final Jury at the conclusion of the semester.  
 
 Please note that four (4) dates, which would normally have class, will be off due to Independence Day (15 August, 2014), Ganesh Chaturthi (29 August, 2014), Dusshera (1 November, 2014), and Gujarati New Years (24 November, 2014).  
 
@@ -50,26 +37,50 @@ Below is a list of how the semester will be broken up, with important dates note
 
 > Class **will be held** during Navratri.
 
-| Class                                 | Dates              | Notes          |
-|---------------------------------------|--------------------|----------------|
-| 0 : Hello, World!  Hello, Markdown!   | 23 & 25 July       | virtual class  |
-| 1                                     | 30 July & 1 August | **No classes** |
-| 2 : Hello, World! (again)             | 6 August           | combined class |
-| 2 : Making Volume                     | 8 August           | combined class |
-| 3 : Folding, Unfolding                | 13 August          | combined class |
-| 4 :                                   | 20 & 22 August     |                |
-| 5 :                                   | 27 August          | combined class |
-| 6 :                                   | 3 & 5 September    |                |
-| 7 : A ~~Murder~~ Mid-Term is Announced | 10 & 12 September |                |
-| 8 : **Mid-Term**                      | 17 & 19 September  |                |
-| 9 :                                   | 24 & 26 September  |                |
-| 10 :                                  | 1 October          | combined class |
-| 11 :                                  | 8 & 10 October     |                |
-| 12 :                                  | 15 & 17 October    |                |
-| 13 :                                  | 29 & 31 October    |                |
-| 14 :                                  | 5 & 7 November     |                |
-| 15 :                                  | 12 & 14 November   |                |
-| **Final Jury**                        | TBA                | Location TBA   |
+| Class                                               | Date               | Notes          | Assignment                            |
+|-----------------------------------------------------|--------------------|----------------|---------------------------------------|
+| 0 : [Hello, World!  Hello, Markdown!](class0.md)    | 23 & 25 July       | virtual class  | [Assignment 0](class0.md#assignment)  |
+| 1                                                   | 30 July & 1 August | **No classes** |                                       |
+| 2 : [Hello, World! (again)](class2.md)              | 6 August           | combined class | [Assignment 2](class2.md#assignment)  |
+| 3 : [Making Volume](class3.md)                      | 8 August           | combined class | [Assignment 3](class3.md#assignment)  |
+| 4 : [Folding, Unfolding](class4.md)                 | 13 August          | combined class | [Assignment 4](class4.md#assignment)  |
+| 5 :                                                 | 20 & 22 August     |                |                                       |
+| 6 :                                                 | 27 August          | combined class |                                       |
+| 7 :                                                 | 3 & 5 September    |                |                                       |
+| 8 : A ~~Murder~~ Mid-Term is Announced              | 10 & 12 September  |                |                                       |
+| 9 : **Mid-Term**                                    | 17 & 19 September  |                |                                       |
+| 10 :                                                | 24 & 26 September  |                |                                       |
+| 11 :                                                | 1 October          | combined class |                                       |
+| 12 :                                                | 8 & 10 October     |                |                                       |
+| 13 :                                                | 15 & 17 October    |                |                                       |
+| 14 :                                                | 29 & 31 October    |                |                                       |
+| 15 :                                                | 5 & 7 November     |                |                                       |
+| 16 :                                                | 12 & 14 November   |                |                                       |
+| **Final Jury**                                      | TBA                | Location TBA   |                                       |
+
+---
+
+## Assignments and Expectations
+
+> For policies regarding assignments, please see the [Policies section below](#policies).
+
+There will be two types of assignments given out in this class.  **All are mandentory and due dates are strict to ensure proper credit is due.**
+
+#### Assignments
+
+###### Weekly Assignments
+
+These will be a combination of short readings and small projects/activities that *will require work outside of class*.  Readings will be reasonable in length, yet challenging in content.  
+**Due one week from assigned date.**  
+
+###### Projects
+
+These are multi-week assignments that will culminate in either a final or mid-term.  Students will have to self-pace for proper completion of the assignment.  
+**Due-date notified at time of assignment.**
+
+#### Expectations
+
+As this class will revolve around theory and readings, **class participation is an absolute nessesity**.
 
 ---
 
