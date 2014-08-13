@@ -12,7 +12,8 @@ Markdown (```.md``` or ```.markdown```) is a *human-readable* text format that i
 
 ---
 
-## Assignment 0
+## Assignment
+**"Hello, Class!  Hello, Markdown!"**
 
 > Due: 23:59 IST - 1 August, 2014
 
