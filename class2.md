@@ -1,4 +1,4 @@
-# Class 0 : "Hello, World!" (again)
+# Class 2 : "Hello, World!" (again)
 
 > This is a combined class on **6 Wednesday, 2014**.
 
