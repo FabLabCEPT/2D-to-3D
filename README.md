@@ -64,7 +64,7 @@ Below is a list of how the semester will be broken up, with important dates note
 
 > For policies regarding assignments, please see the [Policies section below](#policies).
 
-There will be two types of assignments given out in this class.  **All are mandentory and due dates are strict to ensure proper credit is due.**
+There will be two types of assignments given out in this class.  **All are mandatory and due dates are strict to ensure proper credit is due.**
 
 #### Assignments
 
