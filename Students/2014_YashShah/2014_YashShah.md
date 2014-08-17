@@ -14,11 +14,8 @@
 
 ## some cool things that I have done
 
-![Sketch of a car]
-(D:\Work\5th Year\2D to 3D\Markdown\My Files\2014_YashShah\Car)
+![Sketch of a car] (Car.JPG)
 
-![Ambigram of my name]
-(D:\Work\5th Year\2D to 3D\Markdown\My Files\2014_YashShah\Yash_Ambigram)
+![Ambigram of my name] (Yash_Ambigram.JPG)
 
-![Lighting Installation inspired from a peapod - Graphic Design 2]
-(D:\Work\5th Year\2D to 3D\Markdown\My Files\2014_YashShah\Peapod)
+![Lighting Installation inspired from a peapod - Graphic Design 2] (Peapod.JPG)
