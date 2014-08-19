@@ -44,7 +44,7 @@ Below is a list of how the semester will be broken up, with important dates note
 | 2 : [Hello, World! (again)](class2.md)              | 6 August           | combined class | [Assignment 2](class2.md#assignment)  |
 | 3 : [Making Volume](class3.md)                      | 8 August           | combined class | [Assignment 3](class3.md#assignment)  |
 | 4 : [Folding, Unfolding](class4.md)                 | 13 August          | combined class | [Assignment 4](class4.md#assignment)  |
-| 5 :                                                 | 20 & 22 August     |                |                                       |
+| 5 : [Come back to me](class5.md)                    | 20 & 22 August     |                | [Assignment 5](class5.md#assignment)  |
 | 6 :                                                 | 27 August          | combined class |                                       |
 | 7 :                                                 | 3 & 5 September    |                |                                       |
 | 8 : A ~~Murder~~ Mid-Term is Announced              | 10 & 12 September  |                |                                       |
